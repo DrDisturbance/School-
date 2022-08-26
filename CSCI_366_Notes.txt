@@ -1,0 +1,20 @@
+Transistors, 
+basically it's about hardware 
+yeah
+hardware
+
+transistor? 3 wires in is first hint
+prof isn't an electrical engineer
+dislikes electrical engineering, but we need to understand the hardware at a high level
+
+will be looking at 8 bit chip 
+
+transistor is a solid state device to amplify or switch electric signals
+
+light switch = Physical Switch 
+Transistor = Electronic switch using material science, pretty crazy stuff
+Julius lilienfeld proposed transistor and bell labs built the first one in 1947
+
+William Shockley (Grandfather of silicon valley) was on the team
+
+never gonna see anything on a quiz that isn't in his notes. Very handy, review before notes on. Guess who's done taking notes!
